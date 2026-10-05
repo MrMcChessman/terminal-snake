@@ -1,5 +1,5 @@
 # terminal-snake
-A fun terminal-based snake game, coded from scratch in Python.
+A terminal-based snake game, coded from scratch in Python.
 
    
 _snakeV1.py DEMO_
@@ -12,11 +12,12 @@ _snakeV1.py DEMO_
 - Aim for max score!
 
    
-**Purpose:**
+**Purpose:**  
+  
 Personally strengthen understanding of
--  data storage
--  reference structures within lists
--  broader game design ideas
+-  Data storage
+-  Reference structures within lists
+-  Broader game design ideas
 
    
 **Limitations & next steps:**
