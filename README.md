@@ -12,8 +12,7 @@ _snakeV1.py DEMO_
 - Aim for max score!
 
    
-**Purpose:**  
-  
+**Purpose:**
 Personally strengthen understanding of
 -  Data storage
 -  Reference structures within lists
