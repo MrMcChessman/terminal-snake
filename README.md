@@ -1,2 +1,2 @@
 # terminal-snake
-Fun terminal-based snake game for Python; made from scratch.
+Fun terminal-based snake game for Python; coded from scratch.
